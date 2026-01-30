@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 20px; background: #f4f4f4; }
+h1 { text-align: center; }
+.question { background: #fff; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+.options { margin-top: 10px; }
+.options label { display: block; margin: 5px 0; cursor: pointer; }
+button { padding: 10px 20px; margin: 20px 0; font-size: 16px; cursor: pointer; }
+#resultado { font-weight: bold; font-size: 18px; }
